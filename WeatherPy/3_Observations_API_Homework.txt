@@ -1,0 +1,5 @@
+3 Observations Found in Weather Regressions
+
+1. Temperature and Latitude had the highest correlation and model accuracy over all other comparisons
+2. Northern Hemisphere had higher correlations and model accuracies versus Southern Hemisphere in all comparisons
+3. Wind Speed had the lowest correlation with Latitude overall. 
